@@ -1,0 +1,10 @@
+.greenlit1 {background-color: lightgreen;}
+.pinklit1 {background-color: pink;}
+.Red {color: red;}
+.smol {font-size: 21px;}
+.sidebarcss {display: flex; min-height: 100vh;}
+.sidebar {width: 135px; background-color: grey; padding: 25px;}
+.body {display: flex; flex-direction: column; flex: 1; min-width:0;}
+.main {flex: 1; display: flex; flex-direction: column;}
+main {display: flex; flex:1}
+html, body {height: 100%; margin: 0; display: flex; flex-direction: column;}
